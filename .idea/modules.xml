@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main.iml" filepath="$PROJECT_DIR$/.idea/modules/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainModule.iml" filepath="$PROJECT_DIR$/.idea/modules/mainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainModule_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainModule_main.iml" group="mainModule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainModule_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainModule_test.iml" group="mainModule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subInter.iml" filepath="$PROJECT_DIR$/.idea/modules/subInter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subInter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subInter_main.iml" group="subInter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subInter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subInter_test.iml" group="subInter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/subWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/subWeb_main.iml" group="subWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/subWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/subWeb_test.iml" group="subWeb" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name = 'GradleMain'
+include   ':subWeb', ':subInter'
+project(':subInter').projectDir = new File(settingsDir, '../subInter')
+project(':subWeb').projectDir = new File(settingsDir, '../subWeb')

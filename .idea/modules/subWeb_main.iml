@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="subWeb:main" external.linked.project.path="$MODULE_DIR$/../../subWeb" external.root.project.path="$MODULE_DIR$/../../subWeb" external.system.id="GRADLE" external.system.module.group="com" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../subWeb/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../subWeb/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../subWeb/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../subWeb/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../subWeb/src/main/webapp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="subInter_main" />
+  </component>
+</module>
